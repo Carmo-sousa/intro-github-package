@@ -1,0 +1,19 @@
+{
+  "name": "@carmo-sousa/intro-github-package",
+  "version": "1.0.0",
+  "description": "Repositório para aprender sobre github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carmo-sousa/intro-github-package.git"
+  },
+  "author": "Rômulo do Carmo Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carmo-sousa/intro-github-package/issues"
+  },
+  "homepage": "https://github.com/Carmo-sousa/intro-github-package#readme"
+}
